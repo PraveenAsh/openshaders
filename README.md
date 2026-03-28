@@ -3,7 +3,8 @@
 ## OpenShaders
 
 Open-source WebGPU effects component library
-Explore: [openshaders.com](https://openshaders.com)
+
+Coming Soon: [openshaders.com](https://openshaders.com)
 
 ### What is this?
 
